@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a test
 Got to hell
 Come to papa 
@@ -17,3 +18,18 @@ Hello World How you doing
 123123.213123.123123.123123
 240.230.255.255
 0.0.0.0
+=======
+This is a test
+Got to hell
+Come to papa 
+123 123 345345 
+got to go at 12:30 
+wassup 
+23/12/1984 
+Hello World How you doing
++1 (217) 778 8348 
+121.122.123.123
+32.12.12.1
+1.2.3.0
+012.123.12.0
+>>>>>>> origin/master
