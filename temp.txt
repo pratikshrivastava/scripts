@@ -16,3 +16,10 @@ more.with+symbol@foo.tv
 john..doe@example.com
 A@b@c@example.com
 me@some.c
+1984-12-10
+1932-09-12
+0000-10-01
+2013-123-09
+122-32-92
+a123-12-12
+2013-00-01
