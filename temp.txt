@@ -14,12 +14,16 @@ Hello World How you doing
 me@example.com
 more.with+symbol@foo.tv
 john..doe@example.com
-A@b@c@example.com
+john&^doe@example.com
+Ab@c@@example.com
 me@some.c
+me@some.c.tbsadf
+.asd@fwd.com
 1984-12-10
 1932-09-12
 0000-10-01
 2013-123-09
+2013-123-423
 122-32-92
 a123-12-12
 2013-00-01
@@ -28,3 +32,6 @@ a123-12-12
 0112-12-12-A18:30
 0112-12-12T92:30
 1223-00-00T42:32
+2/12/2014
+02/13/2017
+31/04/2019
