@@ -1,0 +1,15 @@
+john..doe@example.com // no consecutive dots
+john.@exa-mple.com // no trailing dot
+asd@exa-.com asd@-as.com as.@par.com
+.john@example.com // no leading dot
+A@b@c@example.com // not more than one “@”
+asdsadf@reaasas--pasdf.comsadf
+me@some.c // need two letters at the end
+as&sad@pra.com
+asd.Asd.ASD@pratik.com
+ma@ele.com
+QSAD@PRATIK.COM
+more.with+symbol@foo.tv
+asdf_asdf@ccom.com
+asd@pratik.com 
+asd-asd@preail.com
