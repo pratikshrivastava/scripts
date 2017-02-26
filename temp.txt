@@ -15,9 +15,19 @@ Hello World How you doing
 0.0.0.0
 2511.252.255.255
 0.0.0.0
-
+john..doe@example.com // no consecutive dots
+sa.as.sad@pra.compea@as.com me@example..com 
+john.@exa-mple.com // no trailing dot
+asd@exa-.com
+asd@-as.com
+.john@example.com // no leading dot
+A@b@c@example.com // not more than one “@”
+me@some.c // need two letters at the end
+as&sad@pra.com
 me@example.com
-	more.with+symbol@foo.tv
+more.with+symbol@foo.tv
+me@example.com
+more.with+symbol@foo.tv
 john..doe@example.com
 john&^doe@example.com
 Ab@c@@example.com
@@ -41,3 +51,33 @@ a123-12-12
 2/12/2014
 02/13/2017
 31/04/2019
+john..doe@example.com // no consecutive dots
+john.@exa-mple.com // no trailing dot
+asd@exa-.com asd@-as.com as.@par.com
+.john@example.com // no leading dot
+A@b@c@example.com // not more than one “@”
+asdsadf@reaasas--pasdf.comsadf
+me@some.c // need two letters at the end
+as&sad@pra.com
+asd.Asd.ASD@pratik.com
+
+ma@ele.com QSAD@PRATIK.COM 
+more.with+symbol@foo.tv
+asdf_asdf@ccom.com
+asd@pratik.com 
+asd-asd@preail.com
+john..doe@example.com // no consecutive dots
+john.@exa-mple.com // no trailing dot
+asd@exa-.com asd@-as.com as.@par.com
+.john@example.com // no leading dot
+A@b@c@example.com // not more than one “@”
+asdsadf@reaasas--pasdf.comsadf
+me@some.c // need two letters at the end
+as&sad@pra.com
+asd.Asd.ASD@pratik.com
+ma@ele.com QSAD@PRATIK.COM 
+more.with+symbol@foo.tv
+asdf_asdf@ccom.com
+asd@pratik.com 
+asd-asd@preail.com
+john..doe@example
