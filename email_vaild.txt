@@ -13,3 +13,4 @@ more.with+symbol@foo.tv
 asdf_asdf@ccom.com
 asd@pratik.com 
 asd-asd@preail.com
+a@pratik.com
